@@ -28,3 +28,5 @@ Moreover, combining text and pictures can also enhance problem-solving and criti
 Finally, combining text and pictures can be a more efficient and cost-effective way of learning. While videos and auditory learning may require more resources and production time, combining text and pictures can be done with basic software and tools, making it accessible to a wider range of learners and educators. This can be particularly beneficial for those who have limited access to technology or who are in resource-poor environments.
 
 In summary, combining text and pictures is a powerful way to facilitate learning and understanding. By engaging multiple modalities, providing flexibility in the learning process, enhancing problem-solving skills, and being cost-effective, this approach can be more effective than videos and auditory learning for many learners.
+
+Generally more content is not equal to better content and there are pros and cons to each form of media.
